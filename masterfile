@@ -3,4 +3,4 @@ A commit is like a "snapshot" of your project at a certain point. To save the
 staged file:
 git commit -m "Initial commit: Added index.html"
 hey master
-
+hey file1 created
